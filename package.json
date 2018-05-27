@@ -1,6 +1,6 @@
 {
   "name": "trie-uaparser",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Yet another user agent parser",
   "repository": {
     "type": "git",
