@@ -2,9 +2,10 @@
 /data/training.json
 /coverage
 /data/softwares.json
+/data/test_*.yaml
 /logs
 /node_modules
-/test
+/tests
 /package-lock.json
 /.cache
 /.eslintrc

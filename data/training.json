@@ -12597,7 +12597,7 @@
     },
     {
         "ua": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/58.3.138 Chrome/52.3.2743.138 Safari/537.36",
-        "software": "Chrome",
+        "software": "Coc Coc",
         "version": "52.3",
         "os": "Windows",
         "engine": "Blink"
@@ -36128,13 +36128,13 @@
     },
     {
         "ua": "Google-HTTP-Java-Client/1.17.0-rc (gzip)",
-        "software": "Java Runtime Environment",
+        "software": "Google-HTTP-Java-Client",
         "version": "",
         "os": "--"
     },
     {
         "ua": "Google-HTTP-Java-Client/1.22.0 (gzip)",
-        "software": "Java Runtime Environment",
+        "software": "Google-HTTP-Java-Client",
         "version": "",
         "os": "--"
     },
@@ -36176,7 +36176,7 @@
     },
     {
         "ua": "Mozilla/5.0 (LG-T375 AppleWebkit/531 Browser/Phantom/V2.0 Widget/LGMW/3.0 MMS/LG-MMS-V1.0/1.2 Java/ASVM/1.1 Profile/MIDP-2.1 Configuration/CLDC-1.1)",
-        "software": "Java Runtime Environment",
+        "software": "Phantom Browser",
         "version": "",
         "os": "--",
         "engine": "Webkit"
@@ -36800,7 +36800,7 @@
     },
     {
         "ua": "Mozilla/5.0 (compatible; Linux x86_64; Mail.RU_Bot/2.0; +http://go.mail.ru/help/robots)",
-        "software": "Netscape Navigator",
+        "software": "Mail.RU_Bot",
         "version": "5",
         "os": "Linux"
     },

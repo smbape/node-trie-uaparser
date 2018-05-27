@@ -2,6 +2,7 @@
 /.nyc_output
 /coverage
 /data/softwares.json
+/data/test_*.yaml
 /logs
 /node_modules
 /*.sublime-workspace

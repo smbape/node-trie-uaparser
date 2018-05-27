@@ -11,10 +11,10 @@
   },
   "main": "index.js",
   "scripts": {
-    "lint": "eslint --fix \"benchmark/*.js\" \"functions/*.js\" \"lib/*.js\" \"test/*.js\" \"util/*.js\" index.js",
+    "lint": "eslint --fix \"benchmark/*.js\" \"functions/*.js\" \"lib/*.js\" \"tests/*.js\" \"util/*.js\" index.js",
     "cover": "nyc --reporter=lcov --reporter=text-lcov npm run analyse-test > logs/cover.log",
-    "analyse-test": "node lib/analyse.js > logs/analyse.log && npm run test",
-    "test": "mocha \"test/*-test.js\"",
+    "analyse-test": "node scripts/download-data.js && node lib/analyse.js > logs/analyse.log && npm run test",
+    "test": "mocha \"tests/*-test.js\"",
     "prepublishOnly": "npm run cover && npm run test"
   },
   "keywords": [
@@ -38,9 +38,11 @@
     "benchmark": "^2.1.4",
     "chai": "^4.1.2",
     "eslint": "^4.19.1",
+    "js-yaml": "^3.11.0",
     "microtime": "^2.1.8",
     "mocha": "^5.2.0",
     "nyc": "^11.8.0",
+    "request": "^2.87.0",
     "ua-parser": "^0.3.5",
     "useragent": "^2.3.0",
     "useragent-parser": "^0.1.1",
