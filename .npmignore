@@ -1,12 +1,13 @@
-/.cache
-/.nyc_output
-/analyse.log
 /benchmark
 /data/training.json
 /coverage
 /data/softwares.json
 /logs
 /node_modules
+/test
 /package-lock.json
+/.cache
+/.eslintrc
+/.nyc_output
 /*.sublime-project
 /*.sublime-workspace

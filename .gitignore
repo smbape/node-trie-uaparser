@@ -1,6 +1,5 @@
 /.cache
 /.nyc_output
-/analyse.log
 /coverage
 /data/softwares.json
 /logs
