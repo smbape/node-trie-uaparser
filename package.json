@@ -1,0 +1,50 @@
+{
+  "name": "trie-uaparser",
+  "version": "0.0.0",
+  "description": "Yet another user agent parser",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smbape/node-trie-uaparser"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint --fix \"benchmark/*.js\" \"functions/*.js\" \"lib/*.js\" \"test/*.js\" \"util/*.js\" index.js",
+    "cover": "nyc --reporter=lcov --reporter=text-lcov npm run analyse-test > logs/cover.log",
+    "analyse-test": "node lib/analyse.js > logs/analyse.log && npm run test",
+    "test": "mocha \"test/*-test.js\"",
+    "prepublishOnly": "npm run cover && npm run test"
+  },
+  "keywords": [
+    "trie",
+    "trie-uaparser",
+    "ua",
+    "ua-parser",
+    "uaparser",
+    "user-agent",
+    "useragent"
+  ],
+  "author": "Stéphane MBAPE",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "regex-trie": "^1.0.4"
+  },
+  "devDependencies": {
+    "async": "^2.6.1",
+    "babel-eslint": "^8.2.3",
+    "benchmark": "^2.1.4",
+    "chai": "^4.1.2",
+    "eslint": "^4.19.1",
+    "microtime": "^2.1.8",
+    "mocha": "^5.2.0",
+    "nyc": "^11.8.0",
+    "ua-parser": "^0.3.5",
+    "useragent": "^2.3.0",
+    "useragent-parser": "^0.1.1",
+    "useragent_parser": "^1.0.0",
+    "v8-profiler": "^5.7.0"
+  }
+}

@@ -1,0 +1,1619 @@
+{
+    "tokens": {
+        "909": 3,
+        "1337browser": 2,
+        "200pleasebot": 2,
+        "360spider": 3,
+        "3b-webview": 3,
+        "acer": 3,
+        "adobeair": 2,
+        "adr": 2,
+        "ahrefsbot": 2,
+        "alexa": 3,
+        "amazon kindle": 2,
+        "amigaos": 2,
+        "android": 2,
+        "aol": 2,
+        "aol-iweng": 2,
+        "aolapp": 2,
+        "aolsecure": 2,
+        "aolshield": 2,
+        "apache-httpclient": 2,
+        "apple-x86_64-darwin12.5.0": 3,
+        "applewebkit": 2,
+        "archos": 3,
+        "arora": 2,
+        "aros": 3,
+        "atom": 2,
+        "audit": 2,
+        "avant browser": 2,
+        "avantbrowser": 3,
+        "awesomium": 2,
+        "bada": 2,
+        "baiduspider": 2,
+        "bb10": 3,
+        "bb10,touch": 3,
+        "bbb100-1": 3,
+        "bbb100-2": 3,
+        "bbb100-3": 3,
+        "beos": 2,
+        "bingbot": 2,
+        "bingpreview": 2,
+        "blackberry": 2,
+        "bmp": 2,
+        "broadsign xpress": 2,
+        "browser": 2,
+        "browserng": 2,
+        "bsd": 2,
+        "build/gingerbread": 3,
+        "build/iris": 2,
+        "careerbot": 2,
+        "casperjs": 2,
+        "catchpoint": 2,
+        "checkeros": 3,
+        "chimera": 2,
+        "chrome": 2,
+        "chrome-lighthouse": 2,
+        "chromeframe": 2,
+        "chromium": 2,
+        "cordova-amazon-fireos": 3,
+        "crawler@netseer.com": 3,
+        "crios": 2,
+        "crkey": 2,
+        "crkey armv7l": 2,
+        "crmo": 2,
+        "cros": 2,
+        "curl": 2,
+        "cygwin_nt": 2,
+        "dalvik": 2,
+        "darwin": 2,
+        "ddg-android": 2,
+        "debian": 2,
+        "dejaclick": 2,
+        "dmbrowser": 2,
+        "dmbrowser-bv": 2,
+        "dmbrowser-uv": 2,
+        "domaintools": 3,
+        "dragon": 2,
+        "droid": 2,
+        "droidx": 2,
+        "duckduckgo-favicons-bot": 2,
+        "dwb": 2,
+        "edga": 2,
+        "edge": 2,
+        "editionwindows": 3,
+        "electron": 2,
+        "embedded": 3,
+        "embeddedwb": 2,
+        "epiphany": 2,
+        "evaliant": 3,
+        "eve-igb": 3,
+        "exabot": 2,
+        "exb language crawler": 2,
+        "explorer": 3,
+        "facebookexternalhit": 2,
+        "facebot": 3,
+        "fban": 3,
+        "fbav": 2,
+        "fedora": 2,
+        "firebird": 2,
+        "firefox": 2,
+        "freebsd": 2,
+        "fxios": 2,
+        "gameoverlay": 3,
+        "gecko": 2,
+        "genieo": 2,
+        "gomezagent": 2,
+        "google": 3,
+        "google earth": 2,
+        "google earth pro": 2,
+        "google favicon": 2,
+        "google-http-java-client": 3,
+        "googlebot": 2,
+        "googlebot-mobile": 2,
+        "googletv": 2,
+        "googleweblight": 3,
+        "grapeshotcrawler": 2,
+        "gsa": 2,
+        "hackintosh": 3,
+        "haosouspider": 3,
+        "headlesschrome": 2,
+        "http://ahrefs.com/robot/": 3,
+        "http://code.google.com/appengine": 3,
+        "http://duckduckgo.com": 3,
+        "http://help.soso.com/webspider.htm": 3,
+        "http://help.yahoo.com/help/us/ysearch/slurp": 3,
+        "http://search.msn.com/msnbot.htm": 3,
+        "http://shoulu.jike.com/spider.html": 3,
+        "http://validator.w3.org/services": 3,
+        "http://www.200please.com/bot": 3,
+        "http://www.admantx.com/service-fetcher.html": 3,
+        "http://www.alexa.com/help/webmasters": 3,
+        "http://www.archive.org/details/archive.org_bot": 3,
+        "http://www.avantbrowser.com": 3,
+        "http://www.baidu.com/search/spider.html": 3,
+        "http://www.bing.com/bingbot.htm": -1,
+        "http://www.career-x.de/bot.html": 3,
+        "http://www.exb.de/crawler": 3,
+        "http://www.facebook.com/externalhit_uatext.php": 3,
+        "http://www.genieo.com/webfilter.html": 3,
+        "http://www.google.com/bot.html": 3,
+        "http://www.googlebot.com/bot.html": 3,
+        "http://www.grapeshot.co.uk/crawler.php": 3,
+        "http://www.majestic12.co.uk/bot.php": 3,
+        "http://www.meanpath.com/meanpathbot.html": 3,
+        "http://www.opensiteexplorer.org/dotbot": 3,
+        "http://www.pinterest.com/": 3,
+        "http://www.pinterest.com/bot.html": 3,
+        "http://www.proximic.com/info/spider.php": 3,
+        "http://www.qtweb.net": 3,
+        "http://www.sogou.com/docs/help/webmasters.htm#07": 3,
+        "http://www.yodao.com/help/webmaster/spider/": 3,
+        "http://yandex.com/bots": 3,
+        "httpclient": 2,
+        "https://api.slack.com/robots": 3,
+        "https://developers.google.com/+/web/snippet/": 3,
+        "https://help.yahoo.com/kb/mail/yahoo-link-preview-sln23615.html": 3,
+        "ibm webexplorer": 2,
+        "icedragon": 2,
+        "iceweasel": 2,
+        "ie8mercury": 3,
+        "iemb": 2,
+        "iemobile": 2,
+        "inettvbrowser": 2,
+        "inspiron": 2,
+        "ios": 2,
+        "ipad": 2,
+        "ipad os": 2,
+        "ipad; cpu os": 2,
+        "ipad; u; cpu os": 2,
+        "iphone": 2,
+        "iphone os": 2,
+        "iphone; cpu os": 2,
+        "iphone; u; cpu os": 2,
+        "ipod": 3,
+        "ipod touch": 3,
+        "iris": 2,
+        "iris fuel": 2,
+        "iris x": 2,
+        "iron": 2,
+        "jakarta commons-httpclient": 2,
+        "java": 2,
+        "javafx": 2,
+        "javaplatform/jp": 2,
+        "jp.co.yahoo.android.yjtop": 2,
+        "k-meleon": 2,
+        "kfauwi": 2,
+        "kfdowi": 2,
+        "kffowi": 2,
+        "kfgiwi": 2,
+        "kfjwi": 2,
+        "kfot": 2,
+        "kfsowi": 2,
+        "kfsuwi": 2,
+        "kfthwi": 2,
+        "kftt": 2,
+        "khtml  like gecko": -1,
+        "khtml like gecko": -1,
+        "khtml, like gecko": -1,
+        "kindle": 2,
+        "kindle fire": 2,
+        "konqueror": 2,
+        "kubuntu": 3,
+        "lavairis": 2,
+        "lbbrowser": 3,
+        "lg-android-mms-v1.0": 3,
+        "libcurl": 2,
+        "libwww-perl": 2,
+        "like gecko": -1,
+        "like mac os x": -1,
+        "linkcheck": 3,
+        "links": 2,
+        "linux": 2,
+        "linux-gnu": 2,
+        "liquid mt": 2,
+        "lynx": 2,
+        "mac os x": 2,
+        "mac_powerpc": 3,
+        "macintosh": 3,
+        "maxthon": 2,
+        "meanpathbot": 2,
+        "mediapartners-google": 2,
+        "metasr": 2,
+        "mib": 2,
+        "micromessenger": 2,
+        "microsoft-cryptoapi": 2,
+        "midori": 2,
+        "minefield": 2,
+        "minix": 2,
+        "mj12bot": 2,
+        "mmp": 2,
+        "mobile": 3,
+        "mocordroid": 2,
+        "mozilla": 2,
+        "mqqbrowser": 2,
+        "msie": 2,
+        "msnbot": 2,
+        "multics": 2,
+        "mvisionplayer": 2,
+        "navigator": 2,
+        "netbsd": 3,
+        "netcast": 3,
+        "netfront": 2,
+        "netscape": 2,
+        "netseer crawler": 2,
+        "news bot": 2,
+        "nexplayer": 2,
+        "nintendo": 3,
+        "nintendobrowser": 2,
+        "nokia": 2,
+        "nokia-lumia": 2,
+        "nokia-mit-browser": 2,
+        "nokiabrowser": 2,
+        "nokiac": 2,
+        "nokiae": 2,
+        "nokian": 2,
+        "nokiax": 2,
+        "nook": 3,
+        "nookcolor": 3,
+        "nookhd": 3,
+        "nooktablet": 3,
+        "novarra-vision": 2,
+        "nx": 2,
+        "obigo": 2,
+        "obigointernetbrowser": 2,
+        "okhttp": 2,
+        "openbsd": 3,
+        "opensuse": 3,
+        "openwave": 2,
+        "opera": 2,
+        "opera mini": 2,
+        "opios": 2,
+        "opr": 2,
+        "os/2": 3,
+        "outform": 3,
+        "owf": 2,
+        "panscient.com": 3,
+        "pda": 3,
+        "phantomjs": 2,
+        "pinterest": 2,
+        "pinterestbot": 2,
+        "playstation": 1,
+        "playstation vita": 2,
+        "ppc": 2,
+        "proximic": 3,
+        "ptst": 2,
+        "puffin": 2,
+        "python-urllib": 2,
+        "qihu": 3,
+        "qt": 2,
+        "qt-creator": 2,
+        "qtcarbrowser": 2,
+        "qtcreator": 2,
+        "qtembedded": 2,
+        "qtqmlviewer": 3,
+        "qtweb": 2,
+        "qtweb internet browser": 2,
+        "qtwebcrawler": 3,
+        "qtwebengine": 2,
+        "qtwebkitkiosk": 3,
+        "qupzilla": 2,
+        "qutebrowser": 2,
+        "rekonq": 2,
+        "rim tablet os": 2,
+        "risc os": 2,
+        "ruxitsynthetic": 2,
+        "s40ovibrowser": 2,
+        "s60": 2,
+        "s60version": 2,
+        "safari": 2,
+        "samsung": -1,
+        "samsung-sgh-i": -1,
+        "samsung-sm-g": -1,
+        "samsung-sm-j": -1,
+        "samsung-sm-n": -1,
+        "samsung-sm-t": -1,
+        "samsungbrowser": 2,
+        "se": 2,
+        "seamonkey": 2,
+        "second": 2,
+        "secondlife": 2,
+        "series40": 2,
+        "series60": 2,
+        "silk": 2,
+        "silk-accelerated=false": -1,
+        "silk-accelerated=true": -1,
+        "slackbot-linkexpanding": 2,
+        "smart-tv": 3,
+        "smarttv": 3,
+        "snook": 3,
+        "sogou web spider": 2,
+        "sosospider": 2,
+        "squider": 2,
+        "sunos": 2,
+        "support@admantx.com": 3,
+        "support@domainreanimator.com": 3,
+        "surveybot": 2,
+        "symbian": 2,
+        "symbian os": 2,
+        "symbianos": 2,
+        "symbos": 2,
+        "thunderbird": 2,
+        "tizenbrowser": 3,
+        "trident": 2,
+        "tweetmemebot": 2,
+        "twitterbot": 2,
+        "u2": 2,
+        "ubuntu": 2,
+        "uc browser": 2,
+        "uc web": 2,
+        "ucbrowser": 2,
+        "ucweb": 2,
+        "ucweb-squid": 2,
+        "unix": 2,
+        "unknown": 3,
+        "untrusted": 2,
+        "unwindfetchor": 2,
+        "up.browser": 2,
+        "validator.w3.org": 3,
+        "version": 2,
+        "vivaldi": 2,
+        "w3c_validator": 2,
+        "w3m": 2,
+        "wap-browser": 2,
+        "waterfox": 2,
+        "wayback save page": 3,
+        "webbrowser": 3,
+        "webosbrowser": 2,
+        "webpositive": 2,
+        "webview": 2,
+        "wget": 2,
+        "win": 2,
+        "windows": 2,
+        "windows ce": 2,
+        "windows nt": 2,
+        "windows phone": 2,
+        "windows phone os": 2,
+        "winnt": 2,
+        "winxp": 2,
+        "wmpro": 2,
+        "wosbrowser": 2,
+        "wp7": 2,
+        "x11": 3,
+        "xblwp7": 3,
+        "xubuntu": 3,
+        "yabrowser": 2,
+        "yahoo": 3,
+        "yahoo! slurp": 3,
+        "yandexbot": 2,
+        "yodaobot": 2,
+        "yowser": 3,
+        "yunos": 2
+    },
+    "children": {
+        "909": {
+            "children": {
+                "msie *": {
+                    "name": "Internet Explorer"
+                },
+                "mozilla *": {
+                    "name": "Nokia Browser"
+                }
+            }
+        },
+        "http://www.200please.com/bot": {
+            "name": "200PleaseBot"
+        },
+        "360spider": {
+            "name": "360Spider"
+        },
+        "haosouspider": {
+            "name": "360Spider"
+        },
+        "support@admantx.com": {
+            "name": "Admantx Platform Semantic Analyzer"
+        },
+        "http://www.admantx.com/service-fetcher.html": {
+            "name": "Admantx Platform Semantic Analyzer"
+        },
+        "http://ahrefs.com/robot/": {
+            "name": "Ahrefs Backlink Research Bot"
+        },
+        "dejaclick *": {
+            "name": "Alertsite Monitoring Bot"
+        },
+        "http://www.alexa.com/help/webmasters": {
+            "name": "Alexa Site Audit"
+        },
+        "android *": {
+            "children": {
+                "linux *": {
+                    "name": "Android Browser"
+                },
+                "netcast": {
+                    "name": "Netcast"
+                },
+                "pinterest *": {
+                    "name": "Pinterest App"
+                }
+            }
+        },
+        "safari *": {
+            "children": {
+                "mobile": {
+                    "children": {
+                        "applewebkit *": {
+                            "children": {
+                                "browser *": {
+                                    "name": "Android Browser"
+                                },
+                                "android *": {
+                                    "name": "Android Browser"
+                                },
+                                "mac os x *": {
+                                    "children": {
+                                        "909": {
+                                            "name": "Nokia Browser"
+                                        },
+                                        "iemobile *": {
+                                            "name": "Internet Explorer Mobile"
+                                        },
+                                        "nokia *": {
+                                            "name": "Internet Explorer Mobile"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "version *": {
+                            "children": {
+                                "applewebkit *": {
+                                    "children": {
+                                        "android *": {
+                                            "name": "Android Browser"
+                                        },
+                                        "droid *": {
+                                            "name": "Android Browser"
+                                        },
+                                        "build/gingerbread": {
+                                            "children": {
+                                                "android *": {
+                                                    "name": "Android Browser"
+                                                },
+                                                "kindle fire *": {
+                                                    "name": "Kindle Browser"
+                                                },
+                                                "nook": {
+                                                    "name": "Nook Web Browser"
+                                                }
+                                            }
+                                        },
+                                        "adr *": {
+                                            "name": "Android Browser"
+                                        },
+                                        "droidx *": {
+                                            "name": "Android Browser"
+                                        },
+                                        "kftt *": {
+                                            "name": "Android Browser"
+                                        },
+                                        "mocordroid *": {
+                                            "name": "Android Browser"
+                                        },
+                                        "bb10": {
+                                            "name": "Blackberry Browser"
+                                        },
+                                        "blackberry *": {
+                                            "name": "Blackberry Browser"
+                                        },
+                                        "ipad; cpu os *": {
+                                            "name": "Safari"
+                                        },
+                                        "ipad; u; cpu os *": {
+                                            "name": "Safari"
+                                        },
+                                        "iphone; cpu os *": {
+                                            "name": "Safari"
+                                        },
+                                        "iphone os *": {
+                                            "name": "Safari"
+                                        },
+                                        "iphone *": {
+                                            "name": "Safari"
+                                        },
+                                        "silk *": {
+                                            "name": "Amazon Silk"
+                                        }
+                                    }
+                                },
+                                "android *": {
+                                    "name": "Android Browser"
+                                },
+                                "nook": {
+                                    "name": "Nook Web Browser"
+                                }
+                            }
+                        },
+                        "chrome *": {
+                            "children": {
+                                "version *": {
+                                    "name": "Chrome"
+                                },
+                                "applewebkit *": {
+                                    "name": "Chrome"
+                                },
+                                "googleweblight": {
+                                    "name": "Google Weblight Proxy"
+                                },
+                                "samsungbrowser *": {
+                                    "name": "Samsung Browser"
+                                }
+                            }
+                        },
+                        "crmo *": {
+                            "name": "Chrome"
+                        },
+                        "crios *": {
+                            "name": "Chrome"
+                        },
+                        "chromium *": {
+                            "name": "Chromium"
+                        },
+                        "fxios *": {
+                            "name": "Firefox"
+                        },
+                        "gsa *": {
+                            "name": "Google Search App"
+                        },
+                        "nokiabrowser *": {
+                            "name": "Nokia Browser"
+                        },
+                        "opr *": {
+                            "name": "Opera"
+                        },
+                        "mqqbrowser *": {
+                            "name": "QQ Browser"
+                        },
+                        "silk *": {
+                            "name": "Amazon Silk"
+                        },
+                        "ucbrowser *": {
+                            "children": {
+                                "version *": {
+                                    "name": "UC Browser Mini"
+                                },
+                                "chrome *": {
+                                    "name": "UC Browser"
+                                }
+                            }
+                        },
+                        "yabrowser *": {
+                            "name": "Yandex Browser"
+                        }
+                    }
+                },
+                "version *": {
+                    "children": {
+                        "applewebkit *": {
+                            "children": {
+                                "android *": {
+                                    "name": "Android Browser"
+                                },
+                                "kfot *": {
+                                    "name": "Android Browser"
+                                },
+                                "kftt *": {
+                                    "name": "Android Browser"
+                                },
+                                "kfjwi *": {
+                                    "name": "Android Browser"
+                                },
+                                "s60 *": {
+                                    "name": "Android Browser"
+                                },
+                                "broadsign xpress *": {
+                                    "name": "Broadsign Xpress"
+                                },
+                                "nx *": {
+                                    "name": "NetFront"
+                                },
+                                "build/gingerbread": {
+                                    "name": "Nook Web Browser"
+                                },
+                                "outform": {
+                                    "name": "Outform Digital Display"
+                                },
+                                "rim tablet os *": {
+                                    "name": "Playbook Web Browser"
+                                },
+                                "mac os x *": {
+                                    "name": "Safari"
+                                },
+                                "windows nt *": {
+                                    "name": "Safari"
+                                },
+                                "silk *": {
+                                    "name": "Amazon Silk"
+                                },
+                                "linux *": {
+                                    "name": "Webkit Based Browser"
+                                }
+                            }
+                        },
+                        "mobile": {
+                            "name": "Safari"
+                        }
+                    }
+                },
+                "aol *": {
+                    "name": "Aol Browser"
+                },
+                "chrome *": {
+                    "children": {
+                        "applewebkit *": {
+                            "children": {
+                                "catchpoint *": {
+                                    "name": "Catchpoint Analyser"
+                                },
+                                "gameoverlay": {
+                                    "name": "Valve Steam Game Overlay"
+                                }
+                            },
+                            "name": "Chrome"
+                        },
+                        "qtwebengine *": {
+                            "name": "Chrome"
+                        },
+                        "version *": {
+                            "name": "Chrome"
+                        },
+                        "google": {
+                            "name": "Chrome"
+                        },
+                        "windows nt *": {
+                            "name": "Chrome"
+                        },
+                        "chromium *": {
+                            "name": "Chromium"
+                        },
+                        "dragon *": {
+                            "name": "Dragon"
+                        },
+                        "gomezagent *": {
+                            "name": "GomezAgent"
+                        },
+                        "maxthon *": {
+                            "name": "Maxthon"
+                        },
+                        "samsungbrowser *": {
+                            "name": "Samsung Browser"
+                        },
+                        "silk *": {
+                            "name": "Amazon Silk"
+                        },
+                        "iron *": {
+                            "name": "Srware Iron"
+                        }
+                    }
+                },
+                "crmo *": {
+                    "name": "Chrome"
+                },
+                "headlesschrome *": {
+                    "name": "Chrome"
+                },
+                "chromium *": {
+                    "name": "Chromium"
+                },
+                "electron *": {
+                    "name": "Electron Application"
+                },
+                "firefox *": {
+                    "name": "Firefox"
+                },
+                "javafx *": {
+                    "name": "Javafx Platform"
+                },
+                "konqueror *": {
+                    "name": "Konqueror"
+                },
+                "maxthon *": {
+                    "name": "Maxthon"
+                },
+                "applewebkit *": {
+                    "children": {
+                        "mozilla *": {
+                            "children": {
+                                "series60 *": {
+                                    "name": "Nokia Browser"
+                                }
+                            },
+                            "name": "Safari"
+                        },
+                        "mac os x *": {
+                            "name": "Safari"
+                        },
+                        "windows nt *": {
+                            "name": "Safari"
+                        },
+                        "linux *": {
+                            "name": "Webkit Based Browser"
+                        }
+                    }
+                },
+                "qt *": {
+                    "name": "Qt Based Browser"
+                },
+                "qtcarbrowser *": {
+                    "name": "Qtcarbrowser"
+                },
+                "qupzilla *": {
+                    "name": "QupZilla"
+                },
+                "rekonq *": {
+                    "name": "Rekonq"
+                },
+                "phantomjs *": {
+                    "name": "PhantomJS"
+                },
+                "samsungbrowser *": {
+                    "name": "Samsung Browser"
+                },
+                "second *": {
+                    "name": "Secondlife"
+                },
+                "silk *": {
+                    "name": "Amazon Silk"
+                },
+                "vivaldi *": {
+                    "name": "Vivaldi"
+                },
+                "smarttv": {
+                    "name": "Webkit Based Browser"
+                },
+                "webbrowser": {
+                    "name": "Webkit Based Browser"
+                },
+                "wosbrowser *": {
+                    "name": "webOS Browser"
+                },
+                "webpositive *": {
+                    "name": "Webpositive"
+                },
+                "yowser": {
+                    "name": "Yandex Browser"
+                },
+                "yabrowser *": {
+                    "name": "Yandex Browser"
+                }
+            }
+        },
+        "lg-android-mms-v1.0": {
+            "name": "Android Browser"
+        },
+        "http://www.baidu.com/search/spider.html": {
+            "children": {
+                "safari *": {
+                    "name": "Android Browser"
+                },
+                "baiduspider *": {
+                    "name": "Baidu Spider"
+                }
+            }
+        },
+        "trident *": {
+            "children": {
+                "windows nt *": {
+                    "children": {
+                        "aol *": {
+                            "name": "Aol Browser"
+                        },
+                        "msie *": {
+                            "name": "Internet Explorer"
+                        },
+                        "mozilla *": {
+                            "name": "Internet Explorer"
+                        },
+                        "win *": {
+                            "name": "Internet Explorer"
+                        }
+                    }
+                },
+                "win *": {
+                    "name": "Internet Explorer"
+                }
+            }
+        },
+        "arora *": {
+            "name": "Arora"
+        },
+        "http://www.avantbrowser.com": {
+            "name": "Avant Browser"
+        },
+        "avant browser *": {
+            "name": "Avant Browser"
+        },
+        "avantbrowser": {
+            "name": "Avant Browser"
+        },
+        "awesomium *": {
+            "name": "Awesomium"
+        },
+        "bingbot *": {
+            "name": "Bingbot"
+        },
+        "bingpreview *": {
+            "name": "BingPreview"
+        },
+        "blackberry *": {
+            "name": "Blackberry Browser"
+        },
+        "version *": {
+            "children": {
+                "safari *": {
+                    "name": "Blackberry Browser"
+                },
+                "inettvbrowser *": {
+                    "name": "Internet Tv Browser"
+                },
+                "opera *": {
+                    "children": {
+                        "linux *": {
+                            "name": "Opera"
+                        },
+                        "symbos *": {
+                            "name": "Opera Mini"
+                        }
+                    }
+                },
+                "mac os x *": {
+                    "name": "Opera"
+                },
+                "windows nt *": {
+                    "name": "Opera"
+                },
+                "win *": {
+                    "name": "Opera"
+                },
+                "linux *": {
+                    "name": "Opera"
+                },
+                "ubuntu *": {
+                    "name": "Opera"
+                },
+                "opera mini *": {
+                    "name": "Opera Mini"
+                },
+                "applewebkit *": {
+                    "name": "Webkit Based Browser"
+                }
+            }
+        },
+        "broadsign xpress *": {
+            "name": "Broadsign Xpress"
+        },
+        "http://www.career-x.de/bot.html": {
+            "name": "CareerBot Search Crawler"
+        },
+        "catchpoint *": {
+            "name": "Catchpoint Analyser"
+        },
+        "chimera *": {
+            "name": "Chimera"
+        },
+        "chrome *": {
+            "name": "Chrome",
+            "children": {
+                "firefox *": {
+                    "name": "Firefox"
+                },
+                "puffin *": {
+                    "name": "Puffin"
+                }
+            }
+        },
+        "google": {
+            "name": "Chrome"
+        },
+        "browser *": {
+            "children": {
+                "safari *": {
+                    "name": "Chrome"
+                },
+                "embedded": {
+                    "name": "Embedded Web Browser"
+                },
+                "trident *": {
+                    "name": "Internet Explorer"
+                }
+            }
+        },
+        "chrome-lighthouse *": {
+            "name": "Chrome"
+        },
+        "mobile": {
+            "children": {
+                "chrome *": {
+                    "name": "Chrome"
+                },
+                "u2 *": {
+                    "name": "UC Browser Mini"
+                },
+                "applewebkit *": {
+                    "name": "Webkit Based Browser"
+                },
+                "ucbrowser *": {
+                    "name": "UC Browser Mini"
+                }
+            }
+        },
+        "fbav *": {
+            "name": "Chrome"
+        },
+        "metasr *": {
+            "children": {
+                "safari *": {
+                    "name": "Chrome"
+                },
+                "trident *": {
+                    "name": "Sogou Explorer"
+                }
+            }
+        },
+        "untrusted *": {
+            "children": {
+                "safari *": {
+                    "name": "Chrome"
+                },
+                "trident *": {
+                    "name": "Internet Explorer"
+                }
+            }
+        },
+        "googletv *": {
+            "name": "Chrome"
+        },
+        "firefox *": {
+            "children": {
+                "icedragon *": {
+                    "name": "Comodo Icedragon"
+                },
+                "gecko *": {
+                    "children": {
+                        "windows nt *": {
+                            "name": "Firefox"
+                        },
+                        "mobile": {
+                            "name": "Firefox"
+                        },
+                        "android *": {
+                            "name": "Firefox"
+                        },
+                        "freebsd *": {
+                            "name": "Firefox"
+                        },
+                        "linux *": {
+                            "name": "Firefox"
+                        },
+                        "mac os x *": {
+                            "name": "Firefox"
+                        },
+                        "os/2": {
+                            "name": "Firefox"
+                        },
+                        "win *": {
+                            "name": "Firefox"
+                        },
+                        "netbsd": {
+                            "name": "Firefox"
+                        },
+                        "openbsd": {
+                            "name": "Firefox"
+                        },
+                        "sunos *": {
+                            "name": "Firefox"
+                        },
+                        "mozilla *": {
+                            "name": "Firefox"
+                        },
+                        "gomezagent *": {
+                            "name": "GomezAgent"
+                        },
+                        "tweetmemebot *": {
+                            "name": "Tweetmeme Bot"
+                        }
+                    }
+                },
+                "http://help.yahoo.com/help/us/ysearch/slurp": {
+                    "name": "Yahoo! Slurp Web Crawler Bot"
+                }
+            },
+            "name": "Firefox"
+        },
+        "curl *": {
+            "name": "Curl"
+        },
+        "ubuntu *": {
+            "name": "Curl"
+        },
+        "libcurl *": {
+            "name": "Curl"
+        },
+        "embeddedwb *": {
+            "name": "Delphi Embedded Web Browser"
+        },
+        "alexa": {
+            "children": {
+                "embeddedwb *": {
+                    "name": "Delphi Embedded Web Browser"
+                },
+                "windows nt *": {
+                    "name": "Internet Explorer"
+                },
+                "trident *": {
+                    "name": "Internet Explorer"
+                }
+            }
+        },
+        "support@domainreanimator.com": {
+            "name": "Domain Re-Animator Bot"
+        },
+        "domaintools": {
+            "name": "Domaintools Surveybot"
+        },
+        "wap-browser *": {
+            "name": "Dorado Wap Browser"
+        },
+        "dmbrowser-bv *": {
+            "name": "Dotcom Monitor Bot"
+        },
+        "dmbrowser-uv *": {
+            "name": "Dotcom Monitor Bot"
+        },
+        "dmbrowser *": {
+            "name": "Dotcom Monitor Bot"
+        },
+        "http://duckduckgo.com": {
+            "name": "Duckduckgo Favicons Bot"
+        },
+        "edga *": {
+            "name": "Edge"
+        },
+        "edge *": {
+            "name": "Edge"
+        },
+        "epiphany *": {
+            "name": "Epiphany"
+        },
+        "evaliant": {
+            "children": {
+                "safari *": {
+                    "name": "Evaliant Impressions Bot"
+                },
+                "firefox *": {
+                    "name": "Evaliant Impressions Bot"
+                },
+                "iphone os *": {
+                    "name": "Evaliant Impressions Bot"
+                },
+                "jp.co.yahoo.android.yjtop *": {
+                    "name": "Yahoo! Slurp Web Crawler Bot"
+                }
+            }
+        },
+        "eve-igb": {
+            "name": "Eve In Game Browser"
+        },
+        "exabot *": {
+            "name": "Exalead Crawler"
+        },
+        "http://www.exb.de/crawler": {
+            "name": "ExB Language Crawler"
+        },
+        "iphone os *": {
+            "name": "Facebook App"
+        },
+        "twitterbot *": {
+            "children": {
+                "facebot": {
+                    "name": "Facebook Bot"
+                }
+            },
+            "name": "TwitterBot"
+        },
+        "facebookexternalhit *": {
+            "name": "Facebook Bot"
+        },
+        "http://www.facebook.com/externalhit_uatext.php": {
+            "name": "Facebook Bot"
+        },
+        "firebird *": {
+            "name": "Firebird"
+        },
+        "opera *": {
+            "children": {
+                "firefox *": {
+                    "name": "Firefox"
+                },
+                "windows nt *": {
+                    "name": "Opera"
+                },
+                "nintendo": {
+                    "name": "Opera"
+                },
+                "opera mini *": {
+                    "name": "Opera Mini"
+                }
+            }
+        },
+        "editionwindows": {
+            "name": "Firefox"
+        },
+        "http://www.genieo.com/webfilter.html": {
+            "name": "Genieo Bot"
+        },
+        "unwindfetchor *": {
+            "name": "Gnip Unwindfetchor Crawler"
+        },
+        "gomezagent *": {
+            "name": "GomezAgent"
+        },
+        "http://code.google.com/appengine": {
+            "name": "Google App Engine Software"
+        },
+        "google favicon *": {
+            "name": "Google Favicon Crawler"
+        },
+        "mediapartners-google *": {
+            "name": "Google'S Media Partners System (Adsense)"
+        },
+        "http://www.google.com/bot.html": {
+            "children": {
+                "mediapartners-google *": {
+                    "name": "Google'S Media Partners System (Adsense)"
+                },
+                "googlebot *": {
+                    "name": "GoogleBot"
+                },
+                "googlebot-mobile *": {
+                    "name": "GoogleBot Mobile"
+                }
+            }
+        },
+        "https://developers.google.com/+/web/snippet/": {
+            "name": "Google+ Snippet Fetcher"
+        },
+        "http://www.googlebot.com/bot.html": {
+            "name": "GoogleBot"
+        },
+        "googlebot *": {
+            "name": "GoogleBot"
+        },
+        "http://www.grapeshot.co.uk/crawler.php": {
+            "name": "Grapeshot Bot"
+        },
+        "httpclient *": {
+            "name": "Httpclient"
+        },
+        "iceweasel *": {
+            "name": "Iceweasel"
+        },
+        "debian *": {
+            "name": "Iceweasel"
+        },
+        "http://www.archive.org/details/archive.org_bot": {
+            "name": "Internet Archiver Bot"
+        },
+        "nintendo": {
+            "name": "Internet Channel"
+        },
+        "msie *": {
+            "name": "Internet Explorer"
+        },
+        "windows ce *": {
+            "name": "Internet Explorer"
+        },
+        "windows nt *": {
+            "children": {
+                "msie *": {
+                    "name": "Internet Explorer"
+                },
+                "windows *": {
+                    "name": "Internet Explorer"
+                },
+                "trident *": {
+                    "name": "Internet Explorer"
+                },
+                "mozilla *": {
+                    "name": "Netscape Navigator"
+                }
+            }
+        },
+        "ppc *": {
+            "name": "Internet Explorer"
+        },
+        "windows *": {
+            "children": {
+                "msie *": {
+                    "name": "Internet Explorer"
+                },
+                "mozilla *": {
+                    "name": "Netscape Navigator"
+                }
+            }
+        },
+        "explorer": {
+            "name": "Internet Explorer"
+        },
+        "windows phone *": {
+            "children": {
+                "windows nt *": {
+                    "name": "Internet Explorer"
+                },
+                "iemobile *": {
+                    "name": "Internet Explorer Mobile"
+                }
+            }
+        },
+        "win *": {
+            "children": {
+                "windows nt *": {
+                    "children": {
+                        "msie *": {
+                            "name": "Internet Explorer"
+                        },
+                        "mozilla *": {
+                            "name": "Netscape Navigator"
+                        }
+                    }
+                },
+                "msie *": {
+                    "name": "Internet Explorer"
+                },
+                "mozilla *": {
+                    "name": "Netscape Navigator"
+                }
+            }
+        },
+        "chromeframe *": {
+            "name": "Internet Explorer"
+        },
+        "nokia *": {
+            "children": {
+                "trident *": {
+                    "name": "Internet Explorer"
+                },
+                "iemobile *": {
+                    "name": "Internet Explorer Mobile"
+                }
+            },
+            "name": "Nokia Browser"
+        },
+        "gecko *": {
+            "children": {
+                "trident *": {
+                    "name": "Internet Explorer"
+                },
+                "mac os x *": {
+                    "name": "Netscape Navigator"
+                },
+                "windows nt *": {
+                    "name": "Netscape Navigator"
+                },
+                "windows *": {
+                    "name": "Netscape Navigator"
+                }
+            }
+        },
+        "iemobile *": {
+            "name": "Internet Explorer Mobile"
+        },
+        "xblwp7": {
+            "name": "Internet Explorer Mobile"
+        },
+        "jakarta commons-httpclient *": {
+            "name": "Jakarta Commons Httpclient"
+        },
+        "java *": {
+            "children": {
+                "apache-httpclient *": {
+                    "name": "Apache HttpClient"
+                }
+            },
+            "name": "Java Runtime Environment"
+        },
+        "google-http-java-client": {
+            "name": "Java Runtime Environment"
+        },
+        "http://shoulu.jike.com/spider.html": {
+            "name": "Jike Spider Bot"
+        },
+        "k-meleon *": {
+            "name": "K Meleon"
+        },
+        "cordova-amazon-fireos": {
+            "name": "Kindle Browser"
+        },
+        "kindle *": {
+            "name": "Kindle Browser"
+        },
+        "lbbrowser": {
+            "name": "Lb Browser"
+        },
+        "libwww-perl *": {
+            "name": "Library For Www In Perl"
+        },
+        "linkcheck": {
+            "name": "Linkcheck Analyser"
+        },
+        "linux *": {
+            "children": {
+                "links *": {
+                    "name": "Links"
+                },
+                "x11": {
+                    "name": "Netscape Navigator"
+                },
+                "mozilla *": {
+                    "name": "Netscape Navigator"
+                }
+            }
+        },
+        "lynx *": {
+            "name": "Lynx"
+        },
+        "http://www.majestic12.co.uk/bot.php": {
+            "name": "Majestic 12 Distributed Search Bot"
+        },
+        "mj12bot *": {
+            "name": "Majestic 12 Distributed Search Bot"
+        },
+        "maxthon *": {
+            "name": "Maxthon"
+        },
+        "http://www.meanpath.com/meanpathbot.html": {
+            "name": "Meanpath Bot"
+        },
+        "ie8mercury": {
+            "name": "Mercury Browser"
+        },
+        "microsoft-cryptoapi *": {
+            "name": "Microsoft CryptoAPI"
+        },
+        "midori *": {
+            "name": "Midori"
+        },
+        "minefield *": {
+            "name": "Minefield"
+        },
+        "http://search.msn.com/msnbot.htm": {
+            "name": "Msn Bot"
+        },
+        "mvisionplayer *": {
+            "name": "Mvision Player"
+        },
+        "smarttv": {
+            "name": "Netcast"
+        },
+        "netcast": {
+            "name": "Netcast"
+        },
+        "playstation": {
+            "name": "NetFront"
+        },
+        "applewebkit *": {
+            "children": {
+                "playstation 3": {
+                    "name": "NetFront"
+                },
+                "playstation 4": {
+                    "name": "Playstation 4 Browser"
+                },
+                "mac os x *": {
+                    "name": "Webkit Based Browser"
+                },
+                "windows nt *": {
+                    "name": "Webkit Based Browser"
+                },
+                "win *": {
+                    "name": "Webkit Based Browser"
+                },
+                "linux *": {
+                    "name": "Webkit Based Browser"
+                },
+                "mozilla *": {
+                    "name": "Webkit Based Browser"
+                },
+                "ipad; cpu os *": {
+                    "name": "Webkit Based Browser"
+                }
+            }
+        },
+        "mmp *": {
+            "children": {
+                "netfront *": {
+                    "name": "NetFront"
+                },
+                "up.browser *": {
+                    "name": "Openwave Mobile Browser"
+                }
+            }
+        },
+        "netfront *": {
+            "name": "NetFront"
+        },
+        "netscape *": {
+            "name": "Netscape Navigator"
+        },
+        "navigator *": {
+            "name": "Netscape Navigator"
+        },
+        "apple-x86_64-darwin12.5.0": {
+            "name": "Netscape Navigator"
+        },
+        "crawler@netseer.com": {
+            "name": "Netseer Crawler"
+        },
+        "news bot *": {
+            "name": "Newsbot"
+        },
+        "nexplayer *": {
+            "name": "Nexplayer"
+        },
+        "nintendobrowser *": {
+            "name": "Nintendo Browser"
+        },
+        "nokiabrowser *": {
+            "name": "Nokia Browser"
+        },
+        "browserng *": {
+            "name": "Nokia Browser"
+        },
+        "nokia-mit-browser *": {
+            "name": "Nokia Browser"
+        },
+        "series60 *": {
+            "name": "Nokia Browser"
+        },
+        "obigointernetbrowser *": {
+            "name": "Obigo"
+        },
+        "okhttp *": {
+            "name": "Okhttp"
+        },
+        "http://www.opensiteexplorer.org/dotbot": {
+            "name": "Opensiteexplorer Crawler"
+        },
+        "opr *": {
+            "children": {
+                "chrome *": {
+                    "name": "Opera"
+                },
+                "mobile": {
+                    "children": {
+                        "chrome *": {
+                            "name": "Opera"
+                        },
+                        "version *": {
+                            "name": "Opera Mini"
+                        }
+                    }
+                }
+            }
+        },
+        "freebsd *": {
+            "name": "Opera"
+        },
+        "s40ovibrowser *": {
+            "name": "Ovi Browser"
+        },
+        "panscient.com": {
+            "name": "Panscient Crawler"
+        },
+        "ios *": {
+            "name": "Pinterest App"
+        },
+        "http://www.pinterest.com/bot.html": {
+            "name": "Pinterest Bot"
+        },
+        "http://www.pinterest.com/": {
+            "name": "Pinterest Bot"
+        },
+        "http://www.proximic.com/info/spider.php": {
+            "name": "Proximic Search"
+        },
+        "proximic": {
+            "name": "Proximic Search"
+        },
+        "puffin *": {
+            "name": "Puffin"
+        },
+        "python-urllib *": {
+            "name": "Python Urllib"
+        },
+        "mqqbrowser *": {
+            "name": "QQ Browser"
+        },
+        "http://www.qtweb.net": {
+            "name": "Qt Based Browser"
+        },
+        "qt *": {
+            "name": "Qt Based Browser"
+        },
+        "ruxitsynthetic *": {
+            "name": "Ruxitsynthetic"
+        },
+        "seamonkey *": {
+            "name": "SeaMonkey"
+        },
+        "silk *": {
+            "name": "Amazon Silk"
+        },
+        "https://api.slack.com/robots": {
+            "name": "Slackbot Link Checker"
+        },
+        "http://www.sogou.com/docs/help/webmasters.htm#07": {
+            "name": "Sogou \"Search Dog\""
+        },
+        "http://help.soso.com/webspider.htm": {
+            "name": "Sosospider Search Bot"
+        },
+        "ptst *": {
+            "name": "Speedcurve Speed Tester"
+        },
+        "squider *": {
+            "name": "Squider Bot"
+        },
+        "thunderbird *": {
+            "name": "Thunderbird"
+        },
+        "ucbrowser *": {
+            "name": "UC Browser"
+        },
+        "novarra-vision *": {
+            "name": "Vision Mobile Browser"
+        },
+        "vivaldi *": {
+            "name": "Vivaldi"
+        },
+        "validator.w3.org": {
+            "name": "W3C Css Validator"
+        },
+        "http://validator.w3.org/services": {
+            "name": "W3C Validator"
+        },
+        "w3m *": {
+            "name": "W3M"
+        },
+        "waterfox *": {
+            "name": "Waterfox"
+        },
+        "tizenbrowser": {
+            "name": "Webkit Based Browser"
+        },
+        "webview *": {
+            "name": "Webview Based Browser"
+        },
+        "linux-gnu *": {
+            "name": "Wget"
+        },
+        "https://help.yahoo.com/kb/mail/yahoo-link-preview-sln23615.html": {
+            "name": "Yahoo! Slurp Web Crawler Bot"
+        },
+        "http://help.yahoo.com/help/us/ysearch/slurp": {
+            "name": "Yahoo! Slurp Web Crawler Bot"
+        },
+        "jp.co.yahoo.android.yjtop *": {
+            "name": "Yahoo! Slurp Web Crawler Bot"
+        },
+        "http://yandex.com/bots": {
+            "name": "Yandex Search Bot"
+        },
+        "http://www.yodao.com/help/webmaster/spider/": {
+            "name": "Yodaobot Search Bot"
+        },
+        "crkey *": {
+            "name": "Google Chromecast"
+        }
+    }
+}
