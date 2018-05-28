@@ -47,7 +47,6 @@
         "apple tv": 2,
         "apple-x86_64-darwin12.5.0": 3,
         "applewebkit": 2,
-        "apt-http": 2,
         "architextspider": 3,
         "archive.bibalex.org_bot": 3,
         "archive.org_bot": 3,
@@ -77,6 +76,7 @@
         "ayna-crawler": 3,
         "babbelindonesian-ipad": 2,
         "babo@plantynet.com": 3,
+        "bacaberita app": 2,
         "bada": 2,
         "baidu": 3,
         "baidubrowser": 2,
@@ -86,7 +86,7 @@
         "baiduspider-testbranch": 2,
         "barca": 2,
         "barcapro": 2,
-        "basilisk": 3,
+        "basilisk": 2,
         "bb10": 3,
         "bb10,touch": 3,
         "bbb100-1": 3,
@@ -104,6 +104,7 @@
         "blexbot": 2,
         "blocker": 3,
         "blog_crawler": 2,
+        "bloglovin": 2,
         "blograngercrawler": 2,
         "bmdspider": 3,
         "bmp": 2,
@@ -221,9 +222,11 @@
         "darwin": 2,
         "daumoa": 2,
         "daumoa-feedfetcher": 2,
+        "davdroid": 2,
         "dcrawlbot": 2,
         "ddg-android": 2,
         "debian": 2,
+        "debian apt-http": 2,
         "dejaclick": 2,
         "depoker-ipad": 2,
         "diffbot": 2,
@@ -232,6 +235,7 @@
         "dmbrowser-uv": 2,
         "dolfin": 2,
         "dolphin": 2,
+        "dolphin/int": 2,
         "dolphinhdcn": 2,
         "domaintools": 3,
         "door spider": 2,
@@ -264,7 +268,7 @@
         "epiphany": 2,
         "eracrawler": 2,
         "espial": 2,
-        "espn": 2,
+        "espn radio": 2,
         "evaliant": 3,
         "eve-igb": 3,
         "everbeecrawler": 3,
@@ -434,6 +438,8 @@
         "http://wortschatz.uni-leipzig.de/findlinks/": 3,
         "http://wume.cse.lehigh.edu/~xiq204/crawler/": 3,
         "http://www.200please.com/bot": 3,
+        "http://www.80legs.com/spider.html": 3,
+        "http://www.80legs.com/webcrawler.html": 3,
         "http://www.aboundex.com/crawler/": 3,
         "http://www.adaxas.net/": 3,
         "http://www.admantx.com/service-fetcher.html": 3,
@@ -622,6 +628,7 @@
         "ingrid": 2,
         "inspiron": 2,
         "internet": 3,
+        "internet spider": 2,
         "internetarchive-1.0": 2,
         "ios": 2,
         "ip-web-crawler.com": 3,
@@ -704,7 +711,7 @@
         "libcurl": 2,
         "libcurl-agent": 2,
         "libwww-perl": 2,
-        "lightning": 3,
+        "lightning": 2,
         "lightningspider": 2,
         "like gecko": -1,
         "like mac os x": -1,
@@ -743,6 +750,7 @@
         "mailto:vertical-crawl-support@yahoo-inc.com": 3,
         "mandriva": 2,
         "mania": 2,
+        "masscan": 2,
         "maxthon": 2,
         "mcrawler": 3,
         "mdolphin": 2,
@@ -751,7 +759,7 @@
         "media-percbotspider": 2,
         "medialab": 2,
         "mediapartners-google": 2,
-        "medspider": 3,
+        "medspider": 2,
         "meego": 3,
         "metacrawler": 3,
         "metaspider": 3,
@@ -761,6 +769,7 @@
         "micromessenger": 2,
         "microsoft": 3,
         "microsoft outlook": 2,
+        "microsoft skydrivesync": 2,
         "microsoft-cryptoapi": 2,
         "midori": 2,
         "minefield": 2,
@@ -853,7 +862,7 @@
         "oktamobile": 2,
         "omgcrawler": 2,
         "onebrowser": 2,
-        "onefootball": 3,
+        "onefootball/android": 2,
         "openbsd": 2,
         "opensuse": 3,
         "openwave": 2,
@@ -873,6 +882,7 @@
         "outlook-ios-android": 2,
         "overture-webcrawler": 2,
         "owf": 2,
+        "owncloud": 2,
         "owncloud-android": 2,
         "pagepeeker.com": 3,
         "palemoon": 2,
@@ -889,19 +899,20 @@
         "percolatecrawler": 2,
         "persomm-spider": 3,
         "pete-spider": 2,
-        "phantom": 3,
+        "phantom": 2,
         "phantomjs": 2,
         "philips": 3,
         "phoenixwebbot": 3,
         "pingdomtms": 2,
         "pinterest": 2,
+        "pinterest for android": 2,
+        "pinterest for android tablet": 2,
         "pinterestbot": 2,
         "planetweb": 2,
         "playbook": 3,
         "playstation": 1,
         "playstation vita": 2,
         "playtube": 2,
-        "plugin": 2,
         "poof": 2,
         "postbox": 2,
         "ppc": 2,
@@ -913,6 +924,7 @@
         "punkspider-v0.1": 3,
         "pyamf": 2,
         "pycurl": 2,
+        "python": 3,
         "python-requests": 2,
         "python-urllib": 2,
         "python-urllib2": 2,
@@ -933,10 +945,12 @@
         "quickfinder": 3,
         "qupzilla": 2,
         "qutebrowser": 2,
+        "qwantify": 2,
         "rackspace monitoring": 2,
         "rating": 3,
         "ravencrawler": 3,
-        "rclone": 3,
+        "rclone": 2,
+        "rcm carddav plugin": 2,
         "rdf crawler": 2,
         "reader notifier": 2,
         "readpath_spider": 3,
@@ -953,14 +967,15 @@
         "robot": 2,
         "rockmelt": 2,
         "rogerbot-crawler": 2,
-        "roku": 3,
+        "roku/dvp": 2,
         "rspider": 2,
         "rss-spider": 3,
         "rsscrawler": 2,
         "rummy": 3,
         "runet-research-crawler": 3,
         "ruxitsynthetic": 2,
-        "rv:1.8webcrawler": 3,
+        "rv": 2,
+        "s3 browser": 2,
         "s3fs": 2,
         "s40ovibrowser": 2,
         "s60": 2,
@@ -991,10 +1006,11 @@
         "secondlife": 2,
         "seeker": 2,
         "semantics": 2,
+        "semrushbot": 2,
         "series40": 2,
         "series60": 2,
         "server": 2,
-        "sgbot": 3,
+        "sgbot": 2,
         "sheen": 3,
         "shim-crawler": 3,
         "shiretoko": 2,
@@ -1009,7 +1025,6 @@
         "sitecon": 2,
         "sitecrawler": 3,
         "sitespider": 3,
-        "skydrivesync": 2,
         "skyfire": 2,
         "slack-imgproxy": 2,
         "slack_ssb": 2,
@@ -1046,10 +1061,13 @@
         "spider@mozdex.com": 2,
         "spider@portalb.com": 2,
         "spider@spiderlytics.com": 2,
+        "spider_monkey": 2,
         "spiderengine": 2,
         "spiderku": 2,
+        "spiderlytics": 2,
         "spiderman": 2,
         "spiderpig": 2,
+        "spiderview": 2,
         "spotify": 2,
         "squider": 2,
         "squrl": 3,
@@ -1059,6 +1077,7 @@
         "stonesunspider": 2,
         "stringer": 3,
         "student": 3,
+        "suggybot": 2,
         "sunos": 2,
         "support-fastcrawler3@fast.no": 3,
         "support@admantx.com": 3,
@@ -1084,7 +1103,6 @@
         "tecomac-crawler": 2,
         "teleca-q7.1": 3,
         "telemetryspider2": 2,
-        "the bat": 3,
         "the bat!": 2,
         "thesis_php_crawler": 3,
         "thumbshotsbot": 3,
@@ -1109,6 +1127,7 @@
         "u2": 2,
         "ubrowser": 2,
         "ubuntu": 2,
+        "ubuntu apt-http": 2,
         "uc browser": 2,
         "uc web": 2,
         "ucbrowser": 2,
@@ -1147,7 +1166,7 @@
         "webbrowser": 3,
         "webcompanycrawler": 3,
         "webcrawl@schibstedsok.no": 3,
-        "webcrawler": 3,
+        "webcrawler": 2,
         "webindexerv1@yahoo.com": 2,
         "webmaster@isara.org": 3,
         "webmaster@searchspider.com": 3,
@@ -1214,7 +1233,7 @@
         "y!j-brw": 2,
         "yabrowser": 2,
         "yahoo": 3,
-        "yahoo! slurp": 3,
+        "yahoo! slurp": 2,
         "yahoo-inc": 3,
         "yahoo-mmcrawler": 2,
         "yahoomobilemail": 2,
@@ -1248,10 +1267,10 @@
     "children": {
         "909": {
             "children": {
-                "msie *": {
+                "trident *": {
                     "name": "Internet Explorer"
                 },
-                "mozilla *": {
+                "rv *": {
                     "name": "Nokia Browser"
                 }
             }
@@ -1308,10 +1327,7 @@
                     "name": "Kurio App"
                 },
                 "okhttp *": {
-                    "name": "DAVdroid"
-                },
-                "onefootball": {
-                    "name": "Onefootball"
+                    "name": "dav4android"
                 }
             }
         },
@@ -1479,7 +1495,7 @@
                         "opios *": {
                             "name": "Opera Mini"
                         },
-                        "dolphin *": {
+                        "dolphin/int *": {
                             "name": "Dolphin"
                         },
                         "puffin *": {
@@ -1839,9 +1855,6 @@
                             },
                             "name": "Windows Live Mail"
                         },
-                        "mozilla *": {
-                            "name": "Internet Explorer"
-                        },
                         "win *": {
                             "name": "Internet Explorer"
                         }
@@ -2128,7 +2141,7 @@
                 "safari *": {
                     "name": "Chrome"
                 },
-                "trident *": {
+                "rv *": {
                     "name": "Sogou Explorer"
                 }
             }
@@ -2143,7 +2156,7 @@
                 }
             }
         },
-        "webcrawler": {
+        "webcrawler *": {
             "children": {
                 "hubspot": {
                     "name": "Chrome"
@@ -2167,40 +2180,13 @@
                 },
                 "gecko *": {
                     "children": {
+                        "rv *": {
+                            "name": "Firefox"
+                        },
                         "windows nt *": {
                             "name": "Firefox"
                         },
-                        "mobile": {
-                            "name": "Firefox"
-                        },
-                        "android *": {
-                            "name": "Firefox"
-                        },
-                        "freebsd *": {
-                            "name": "Firefox"
-                        },
-                        "linux *": {
-                            "name": "Firefox"
-                        },
-                        "mac os x *": {
-                            "name": "Firefox"
-                        },
-                        "os/2": {
-                            "name": "Firefox"
-                        },
-                        "win *": {
-                            "name": "Firefox"
-                        },
                         "baidu": {
-                            "name": "Firefox"
-                        },
-                        "netbsd": {
-                            "name": "Firefox"
-                        },
-                        "openbsd *": {
-                            "name": "Firefox"
-                        },
-                        "sunos *": {
                             "name": "Firefox"
                         },
                         "mozilla *": {
@@ -2217,13 +2203,20 @@
                         }
                     }
                 },
-                "trident *": {
+                "rv *": {
                     "children": {
                         "windows nt *": {
                             "name": "Firefox"
                         },
-                        "win *": {
-                            "name": "Internet Explorer"
+                        "trident *": {
+                            "children": {
+                                "windows nt *": {
+                                    "name": "Firefox"
+                                },
+                                "win *": {
+                                    "name": "Internet Explorer"
+                                }
+                            }
                         }
                     }
                 },
@@ -2343,7 +2336,10 @@
                         "dolphin *": {
                             "name": "Dolphin"
                         },
-                        "espn *": {
+                        "rv *": {
+                            "name": "ESPN"
+                        },
+                        "espn radio *": {
                             "name": "ESPN"
                         }
                     }
@@ -2502,6 +2498,22 @@
                 }
             }
         },
+        "rv *": {
+            "children": {
+                "trident *": {
+                    "name": "Internet Explorer"
+                },
+                "ie8mercury": {
+                    "name": "Mercury Browser"
+                },
+                "webview *": {
+                    "name": "Webview Based Browser"
+                },
+                "win *": {
+                    "name": "8webcrawler"
+                }
+            }
+        },
         "windows ce *": {
             "name": "Internet Explorer"
         },
@@ -2549,7 +2561,7 @@
                 "spider *": {
                     "name": "lworld spider"
                 },
-                "skydrivesync *": {
+                "microsoft skydrivesync *": {
                     "name": "Microsoft SkyDriveSync"
                 }
             }
@@ -2649,7 +2661,7 @@
                     "name": "SuperSpider"
                 },
                 "aws-sdk-nodejs *": {
-                    "name": "aws-sdk-nodejs"
+                    "name": "AWS SDK for JavaScript in Node.js"
                 }
             }
         },
@@ -2675,17 +2687,17 @@
         },
         "nokia *": {
             "children": {
-                "trident *": {
+                "rv *": {
                     "name": "Internet Explorer"
                 },
                 "iemobile *": {
                     "children": {
-                        "windows phone *": {
+                        "rv *": {
+                            "name": "Internet Explorer Mobile"
+                        },
+                        "trident *": {
                             "children": {
-                                "mozilla *": {
-                                    "name": "Internet Explorer Mobile"
-                                },
-                                "msie *": {
+                                "windows phone *": {
                                     "children": {
                                         "mozilla *": {
                                             "name": "Internet Explorer Mobile"
@@ -2694,14 +2706,11 @@
                                             "name": "QQ Browser"
                                         }
                                     }
+                                },
+                                "windows phone os *": {
+                                    "name": "Internet Explorer Mobile"
                                 }
                             }
-                        },
-                        "windows phone os *": {
-                            "name": "Internet Explorer Mobile"
-                        },
-                        "android *": {
-                            "name": "Internet Explorer Mobile"
                         }
                     }
                 },
@@ -2713,23 +2722,34 @@
         },
         "gecko *": {
             "children": {
-                "trident *": {
-                    "name": "Internet Explorer"
+                "rv *": {
+                    "children": {
+                        "trident *": {
+                            "name": "Internet Explorer"
+                        },
+                        "mac os x *": {
+                            "name": "Netscape Navigator"
+                        },
+                        "windows nt *": {
+                            "name": "Netscape Navigator"
+                        },
+                        "windows *": {
+                            "name": "Netscape Navigator"
+                        }
+                    }
                 },
-                "mac os x *": {
-                    "name": "Netscape Navigator"
+                "http://www.80legs.com/webcrawler.html": {
+                    "name": "80Legs Web Crawler"
                 },
-                "windows nt *": {
-                    "name": "Netscape Navigator"
-                },
-                "windows *": {
-                    "name": "Netscape Navigator"
-                },
-                "008 *": {
-                    "name": "008"
-                },
-                "80bot *": {
-                    "name": "80bot"
+                "http://www.80legs.com/spider.html": {
+                    "children": {
+                        "80bot *": {
+                            "name": "80bot"
+                        },
+                        "008 *": {
+                            "name": "80Legs Web Crawler"
+                        }
+                    }
                 }
             }
         },
@@ -2750,7 +2770,7 @@
                 "apache-httpclient *": {
                     "name": "Apache HttpClient"
                 },
-                "phantom": {
+                "phantom *": {
                     "name": "Phantom Browser"
                 },
                 "obigo-q *": {
@@ -2772,10 +2792,10 @@
                     "name": "Ex-Crawler"
                 },
                 "linux *": {
-                    "name": "aws-sdk-java"
+                    "name": "AWS SDK for Java"
                 },
                 "aws-sdk-java *": {
-                    "name": "aws-sdk-java"
+                    "name": "AWS SDK for Java"
                 }
             },
             "name": "Java Runtime Environment"
@@ -2852,23 +2872,27 @@
                 "telemetryspider2 *": {
                     "name": "TelemetrySpider2"
                 },
-                "boto *": {
-                    "name": "Boto"
-                },
-                "aws-cli *": {
-                    "name": "aws-cli"
-                },
-                "boto3 *": {
-                    "name": "Boto3"
+                "python": {
+                    "children": {
+                        "boto *": {
+                            "name": "AWS SDK for Python"
+                        },
+                        "aws-cli *": {
+                            "name": "AWS Command Line Interface"
+                        },
+                        "boto3 *": {
+                            "name": "AWS SDK for Python (Boto3)"
+                        }
+                    }
                 },
                 "aws-sdk-java *": {
-                    "name": "aws-sdk-java"
+                    "name": "AWS SDK for Java"
                 },
                 "aws-sdk-cpp *": {
-                    "name": "aws-sdk-cpp"
+                    "name": "AWS SDK for C++"
                 },
                 "aws-sdk-go *": {
-                    "name": "aws-sdk-go"
+                    "name": "AWS SDK for Go"
                 },
                 "jets3t *": {
                     "name": "JetS3t"
@@ -2892,9 +2916,6 @@
         },
         "http://www.meanpath.com/meanpathbot.html": {
             "name": "Meanpath Bot"
-        },
-        "ie8mercury": {
-            "name": "Mercury Browser"
         },
         "microsoft-cryptoapi *": {
             "name": "Microsoft CryptoAPI"
@@ -3166,7 +3187,7 @@
                 "gecko *": {
                     "name": "Thunderbird"
                 },
-                "lightning": {
+                "lightning *": {
                     "name": "Lightning"
                 }
             }
@@ -3331,7 +3352,7 @@
         "thunderbrowse *": {
             "name": "ThunderBrowse"
         },
-        "lightning": {
+        "lightning *": {
             "name": "Thunderbird"
         },
         "postbox *": {
@@ -3346,7 +3367,7 @@
         "barcapro *": {
             "name": "Barca"
         },
-        "the bat": {
+        "the bat! *": {
             "name": "The Bat!"
         },
         "msoffice *": {
@@ -3463,7 +3484,7 @@
                         "pinterest *": {
                             "name": "Pinterest App"
                         },
-                        "espn *": {
+                        "espn radio *": {
                             "name": "ESPN"
                         }
                     }
@@ -3746,9 +3767,6 @@
                 },
                 "fluffy": {
                     "name": "Fluffy the spider"
-                },
-                "internet": {
-                    "name": "Internet Spider"
                 },
                 "medialab *": {
                     "name": "Medialab Spider"
@@ -4874,9 +4892,6 @@
         "www.123metaspider.com": {
             "name": "123metaspider-Bot"
         },
-        "rv:1.8webcrawler": {
-            "name": "8webcrawler"
-        },
         "aesop_com_spiderman": {
             "name": "AESOP_com_SpiderMan"
         },
@@ -5065,6 +5080,9 @@
         "http://www.inspyder.com": {
             "name": "Inspyder-Crawler"
         },
+        "internet spider *": {
+            "name": "Internet Spider"
+        },
         "issuecrawler": {
             "name": "IssueCrawler"
         },
@@ -5116,7 +5134,7 @@
         "msr-isrccrawler": {
             "name": "MSR-ISRCCrawler"
         },
-        "medspider": {
+        "medspider *": {
             "name": "MedSpider"
         },
         "crawling. *": {
@@ -5463,7 +5481,7 @@
         "pythonic-crawler": {
             "name": "pythonic-crawler"
         },
-        "sgbot": {
+        "sgbot *": {
             "name": "sgbot"
         },
         "spiderpig *": {
@@ -5499,6 +5517,12 @@
         "com.facebook.katana": {
             "name": "Facebook App"
         },
+        "pinterest for android tablet *": {
+            "name": "Pinterest App"
+        },
+        "pinterest for android *": {
+            "name": "Pinterest App"
+        },
         "pinterest *": {
             "name": "Pinterest App"
         },
@@ -5508,7 +5532,7 @@
         "otter *": {
             "name": "Otter"
         },
-        "roku": {
+        "roku/dvp *": {
             "name": "Roku"
         },
         "outlook": {
@@ -5529,7 +5553,7 @@
         "mxbrowser *": {
             "name": "Maxthon"
         },
-        "apt-http *": {
+        "debian apt-http *": {
             "name": "Debian APT-HTTP"
         },
         "jupdate": {
@@ -5557,10 +5581,10 @@
             "name": "Minimo"
         },
         "https://github.com/robertdavidgraham/masscan": {
-            "name": "masscan"
+            "name": "MASSCAN: Mass IP port scanner"
         },
         "sznprohlizec *": {
-            "name": "Seznam prohlížeč"
+            "name": "Prohlížeč Seznam.cz"
         },
         "https://www.qwant.com/ *": {
             "name": "Qwantify"
@@ -5583,8 +5607,8 @@
         "evolution *": {
             "name": "Evolution"
         },
-        "plugin *": {
-            "name": "RCM CardDAV plugin"
+        "rcm carddav plugin *": {
+            "name": "RCMCardDAV"
         },
         "nextcloud": {
             "name": "Nextcloud"
@@ -5613,10 +5637,13 @@
         "flipboard *": {
             "name": "Flipboard"
         },
+        "onefootball/android *": {
+            "name": "Onefootball"
+        },
         "flipboard-briefing *": {
             "name": "Flipboard-Briefing"
         },
-        "basilisk": {
+        "basilisk *": {
             "name": "Basilisk"
         },
         "go-http-client *": {
@@ -5629,7 +5656,7 @@
             "name": "reqwest"
         },
         "aws-sdk-ruby2 *": {
-            "name": "aws-sdk-ruby2"
+            "name": "AWS SDK for Ruby - Version 2"
         },
         "s3fs *": {
             "name": "s3fs"
@@ -5637,11 +5664,11 @@
         "https://s3browser.com": {
             "name": "S3 Browser"
         },
-        "rclone": {
-            "name": "rclone"
+        "rclone *": {
+            "name": "Rclone"
         },
         "lftp *": {
-            "name": "lftp"
+            "name": "LFTP"
         },
         "aria2 *": {
             "name": "aria2"
