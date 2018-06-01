@@ -58,7 +58,7 @@ suite
         uaparser.parseUA(testcases[gen.next()]);
     })
     .on("cycle", event => {
-        console.log(String(event.target));
+        console.log(event.target.toString());
         gen.reset();
     })
     .on("complete", function() {

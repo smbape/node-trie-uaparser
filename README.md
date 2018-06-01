@@ -4,12 +4,12 @@ As of time of writing (27th May 2018), the fastest user agent parser.
 
 ```sh
 $ node benchmark/parse.js
-   trie-uaparser v1.0.2 x 77,904 ops/sec ±1.71% (89 runs sampled)
-       useragent v2.3.0 x 9,650 ops/sec ±0.45% (92 runs sampled)
-useragent_parser v1.0.0 x 59,397 ops/sec ±0.99% (92 runs sampled)
-useragent-parser v0.1.1 x 20,929 ops/sec ±1.01% (91 runs sampled)
-       ua-parser v0.3.5 x 41,082 ops/sec ±1.24% (89 runs sampled)
-Fastest is trie-uaparser v1.0.2
+   trie-uaparser v1.0.3 x 82,647 ops/sec ±1.92% (91 runs sampled)
+       useragent v2.3.0 x 9,413 ops/sec ±0.68% (89 runs sampled)
+useragent_parser v1.0.0 x 59,702 ops/sec ±0.92% (91 runs sampled)
+useragent-parser v0.1.1 x 21,064 ops/sec ±0.95% (89 runs sampled)
+       ua-parser v0.3.5 x 41,345 ops/sec ±1.07% (90 runs sampled)
+Fastest is trie-uaparser v1.0.3
 ```
 
 ## Examples

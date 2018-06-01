@@ -212,23 +212,23 @@ const LknownTokens = [
     "qt"
 ];
 
-const RegexTrie = require("regex-trie");
-const trie = new RegexTrie();
+const Trie = require("../lib/Trie");
+const trie = new Trie(LknownTokens);
 
-const versionStartMatcher = new RegExp(`^(?:${ LknownTokens.slice().sort(longestStringComparator).join("|") })`);
-const trieRegexp = new RegExp(`^${ trie.add(LknownTokens).toRegExp().source }`);
+const sortedReg = new RegExp(`^(?:${ LknownTokens.slice().sort(longestStringComparator).join("|") })`);
+const trieReg = new RegExp(`^${ trie.toRegExp().source }`);
 
-const benchmark = require("benchmark");
 const token = "windows nt 6.3";
 
+const benchmark = require("benchmark");
 const suite = new benchmark.Suite();
 
 suite
-    .add("versionStartMatcher", () => {
-        versionStartMatcher.exec(token);
+    .add("sortedReg", () => {
+        sortedReg.exec(token);
     })
-    .add("         trieRegexp", () => {
-        trieRegexp.exec(token);
+    .add("  trieReg", () => {
+        trieReg.exec(token);
     })
     .on("cycle", event => {
         console.log(String(event.target));
