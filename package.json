@@ -29,6 +29,7 @@
   "author": "Stéphane MBAPE",
   "license": "MIT",
   "dependencies": {
+    "jsesc": "^2.5.1",
     "lodash": "^4.17.10"
   },
   "devDependencies": {
@@ -38,7 +39,6 @@
     "chai": "^4.1.2",
     "eslint": "^4.19.1",
     "js-yaml": "^3.11.0",
-    "jsesc": "^2.5.1",
     "microtime": "^2.1.8",
     "mocha": "^5.2.0",
     "nyc": "^11.8.0",

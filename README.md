@@ -1,6 +1,6 @@
 # Yet another user agent parser
 
-As of time of writing (27th May 2018), the fastest user agent parser.
+As of time of writing (1st june 2018), the fastest user agent parser.
 
 ```sh
 $ node benchmark/parse.js
