@@ -16,16 +16,31 @@ const generator = len => {
     };
 };
 
-const SIZE = 1024;
-const patterns = new Array(SIZE);
-const gen = generator(patterns.length);
+const SIZE = Math.pow(2, 10);
+const LENGTH = Math.pow(2, 5);
 
-for (let i = 0; i < SIZE; i++) {
-    patterns[i] = Math.random().toString(36).slice(2) + Math.random().toString(36).slice(2);
-    patterns[i] = patterns[i].slice(0, Math.floor(Math.random() * patterns[i].length));
+// const patterns = Object.keys(require("../data/indexes.json").tokens);
+const patterns = new Array(SIZE);
+
+for (let i = 0, j; i < SIZE; i++) {
+    patterns[i] = new Array(LENGTH);
+    for (j = 0; j < LENGTH; j++) {
+        patterns[i][j] = String.fromCharCode(32 + Math.round((127 - 32) * Math.random()));
+    }
+    patterns[i] = patterns[i].join("");
 }
 
+const gen = generator(patterns.length);
+
 const trie = new Trie(patterns);
+console.log(JSON.stringify({
+    nodes: trie.nodes,
+    depth: trie.depth,
+    height: trie.height,
+    paths: trie.paths,
+    ends: Object.keys(trie.ends).length,
+    letters: Object.keys(trie.letters).length,
+}, null, 4));
 
 const RegexTrie = require("regex-trie");
 const regexTrie = (new RegexTrie()).add(patterns).toRegExp();

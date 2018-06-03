@@ -212,11 +212,15 @@ const LknownTokens = [
     "qt"
 ];
 
+const flip = require("../functions/flip");
 const Trie = require("../lib/Trie");
 const trie = new Trie(LknownTokens);
 
+const hashmap = flip(LknownTokens, 1, true);
 const sortedReg = new RegExp(`^(?:${ LknownTokens.slice().sort(longestStringComparator).join("|") })`);
 const trieReg = new RegExp(`^${ trie.toRegExp().source }`);
+
+const hasProp = Object.prototype.hasOwnProperty;
 
 const token = "windows nt 6.3";
 
@@ -224,6 +228,9 @@ const benchmark = require("benchmark");
 const suite = new benchmark.Suite();
 
 suite
+    .add("hashmap", () => {
+        hasProp.call(hashmap, token);
+    })
     .add("sortedReg", () => {
         sortedReg.exec(token);
     })

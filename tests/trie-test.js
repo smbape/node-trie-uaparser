@@ -1,10 +1,25 @@
 /* eslint-env mocha */
 const {expect} = require("chai");
+const jsesc = require("jsesc");
 const Trie = require("../lib/Trie");
+
+const SIZE = Math.pow(2, 5);
+const patterns = new Array(SIZE);
+
+const dump = str => {
+    return str.replace(/([\t\n\f\r\\$()*+\-.?[\]^{|}])/g, "\\$1").replace(/[^\x20-\x7E]/g, jsesc);
+};
+
+for (let i = 0, len; i < SIZE; i++) {
+    patterns[i] = Math.random().toString(36).slice(2) + Math.random().toString(36).slice(2);
+    len = Math.round(Math.random() * patterns[i].length);
+    if (len !== 0) {
+        patterns[i] = patterns[i].slice(0, len);
+    }
+}
 
 describe("Trie", () => {
     it("should create", () => {
-        const patterns = [0, 1, 2, "a", "aa", "aaa", "b", "bb", "bbb", 3, 4];
         const trie1 = new Trie(patterns);
         const trie2 = new Trie();
         trie2.add(patterns);
@@ -13,19 +28,19 @@ describe("Trie", () => {
     });
 
     it("should toRegExp", () => {
-        const patterns = [0, 1, 2, "a", "aa", "aaa", "b", "bb", "bbb", 3, 4, 43218, "fisopud"];
         const trie = new Trie(patterns);
+        const reg = new RegExp(`^${ trie.toRegExp().source }`);
 
         patterns.forEach(pattern => {
-            expect(new RegExp(`^${ trie.toRegExp().source }`).test(String(pattern))).to.equal(true);
-            expect(new RegExp(`^${ trie.toRegExp().source }`).test(`${ pattern }z`)).to.equal(true);
-            expect(new RegExp(`^${ trie.toRegExp().source }`).test(`z${ pattern }`)).to.equal(false);
+            expect(reg.test(String(pattern))).to.equal(true, `Expecting to match "${ dump(pattern) }"`);
+            expect(reg.test(`${ pattern }===`)).to.equal(true, `Expecting to match "${ dump(pattern) }"`);
+            expect(reg.test(`===${ pattern }`)).to.equal(false, `Expecting to not match "${ dump(pattern) }"`);
         });
     });
 
     it("should toRegExp capture", () => {
-        const patterns = [0, 1, 2, "a", "aa", "aaa", "b", "bb", "bbb", 3, 4, 43218, "fisopud"];
         const trie = new Trie(patterns);
+        const reg = new RegExp(`^${ trie.toRegExp(true).source }`);
 
         patterns.forEach(pattern => {
             const match = Object.assign([String(pattern), String(pattern)], {
@@ -33,9 +48,9 @@ describe("Trie", () => {
                 input: "0"
             });
 
-            expect(new RegExp(`^${ trie.toRegExp(true).source }`).exec(String(pattern))).to.deep.equal(match);
-            expect(new RegExp(`^${ trie.toRegExp(true).source }`).exec(`${ pattern }z`)).to.deep.equal(match);
-            expect(new RegExp(`^${ trie.toRegExp(true).source }`).exec(`z${ pattern }`)).to.equal(null);
+            expect(reg.exec(String(pattern))).to.deep.equal(match, `Expecting to match "${ dump(pattern) }"`);
+            expect(reg.exec(`${ pattern }===`)).to.deep.equal(match, `Expecting to match "${ dump(pattern) }"`);
+            expect(reg.exec(`===${ pattern }`)).to.equal(null, `Expecting to not match "${ dump(pattern) }"`);
         });
     });
 });

@@ -35,7 +35,7 @@ const testcases = shuffle(require("../data/training.json").map(({ua}) => ua));
 const gen = generator(testcases.length);
 const suite = new benchmark.Suite();
 
-const indexed = new Parser({
+const trieUaparser = new Parser({
     os: true,
     version: true,
     splitVersion: true,
@@ -43,7 +43,7 @@ const indexed = new Parser({
 
 suite
     .add(`   trie-uaparser v${ require("../package.json").version }`, () => {
-        indexed.parse(testcases[gen.next()]);
+        trieUaparser.parse(testcases[gen.next()]);
     })
     .add(`       useragent v${ require("useragent/package.json").version }`, () => {
         useragent.parse(testcases[gen.next()]);

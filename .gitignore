@@ -1,5 +1,6 @@
 /.cache
 /.nyc_output
+/build
 /coverage
 /data/softwares.json
 /data/test_*.yaml
