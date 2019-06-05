@@ -3,7 +3,23 @@
 	[
 		{
 			"path": ".",
-            "folder_exclude_patterns": [".cache", ".svn", ".git", ".hg", "CVS", "providers", "providers-backup", "providers-refactoring"],
+			"binary_file_patterns": [
+				"*.jpg",
+				"*.jpeg",
+				"*.png",
+				"*.gif",
+				"*.gz",
+				"*.ttf",
+				"*.tga",
+				"*.dds",
+				"*.ico",
+				"*.eot",
+				"*.pdf",
+				"*.swf",
+				"*.jar",
+				"*.zip",
+				"node_modules/**"
+			]
 		}
 	]
 }
